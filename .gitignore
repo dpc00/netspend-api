@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+ns_token.txt
+ns_creds.txt
+*.mitm
+.env
