@@ -4,3 +4,4 @@ ns_token.txt
 ns_creds.txt
 *.mitm
 .env
+depwire-output.json
