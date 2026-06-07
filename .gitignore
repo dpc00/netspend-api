@@ -5,3 +5,4 @@ ns_creds.txt
 *.mitm
 .env
 depwire-output.json
+*.sublime-*
